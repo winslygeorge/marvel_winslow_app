@@ -12,3 +12,5 @@ which are areas of interest:
 (Activity/Fragment).
 ● Paging (optional/bonus)
 ##### and  BottomSheetDialog
+
+####Path to apk installer - https://github.com/winslygeorge/marvel_winslow_app/blob/master/app-dev-debug.apk
